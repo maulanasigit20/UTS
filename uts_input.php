@@ -7,7 +7,7 @@
 <h2 align="center">Input Data Covid19</h2>
 <hr>
 
-<form name="form1" method="post" action="uts_proses_simpan.php">
+<form name="form_input" method="post" action="uts_proses_simpan.php">
     <table width="700" border="0" align="center"  >
       <tr>
         <td width="250">NAMA WILAYAH</td>
