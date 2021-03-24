@@ -8,7 +8,7 @@
 <hr>
 
 <form name="form_input" method="post" action="uts_proses_simpan.php">
-    <table width="700" border="0" align="center"  >
+    <table width="700" border="0" align="center" >
       <tr>
         <td width="250">NAMA WILAYAH</td>
         <td width="530">
